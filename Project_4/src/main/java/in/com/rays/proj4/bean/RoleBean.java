@@ -14,7 +14,7 @@ public class RoleBean extends BaseBean {
 	    public static final int COLLEGE = 3;
 	    public static final int KIOSK = 4;
 	    public static final int FACULTY=5;
-	
+	    public static final int CTO=6; 
 	private String  name;
 	
 	private String description;
